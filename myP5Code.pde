@@ -14,7 +14,11 @@ void draw(){
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
+
+  rect(175,31,50,50); //top part of hat
+  rect(150,70,100,15); //brinm of hat
   
+  line(180,135,220,135); //mouth
 
 }
 
